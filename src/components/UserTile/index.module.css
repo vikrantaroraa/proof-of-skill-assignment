@@ -1,0 +1,10 @@
+.usertile {
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+  background-color: #f2f2ff;
+  width: 100%;
+  border-bottom: 1px solid grey;
+  justify-content: center;
+  cursor: pointer;
+}
